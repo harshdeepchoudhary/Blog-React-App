@@ -21,7 +21,7 @@ import UpdateBlog from "./pages/UpdateBlog";
 function App() {
   return (
     <UserProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/Blog-FrontEnd-App">
         <ToastContainer position="bottom-center" />
         <Routes>
           <Route path="/" element={<Home />} />
