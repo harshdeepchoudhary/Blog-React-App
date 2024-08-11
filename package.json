@@ -2,7 +2,7 @@
   "private": true,
   "name": "Harshdeep_Choudary",
   "version": "0.1.0",
-  "homepage": "https://harshdeepchoudhary.github.io/Blog-FrontEnd-App",
+  "homepage": "https://harshdeepchoudhary.github.io/Blog-Mangement-System-Front-end",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
